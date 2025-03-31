@@ -10,6 +10,8 @@ Repository created for studies and development of an intelligent virtual assista
 
 - pip install sounddevice
 
+- pip install openai-whisper
+
 # Steps for developing
 1. Voice recorder with Python and JavaScript
 2. Voice recognition with Python and library Whisper(OpenAI)
