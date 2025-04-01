@@ -6,11 +6,26 @@ Repository created for studies and development of an intelligent virtual assista
 - JavaScript
 
 # Installation
-- pip install ipython (voice Google Colab)
+*Windows:*
 
-- pip install sounddevice
+    - Bash:
+    
+        - pip install ipython (voice Google Colab)
 
-- pip install openai-whisper
+        - pip install sounddevice
+
+        - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+        - pip install openai-whisper
+
+        - pip install openai
+
+    - Browser:
+        - https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip (extract and add to path)
+
+*Linux*
+
+    
 
 # Steps for developing
 1. Voice recorder with Python and JavaScript
